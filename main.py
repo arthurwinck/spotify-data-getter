@@ -1,18 +1,6 @@
 import spotipy
-import requests
-import sys
-import spotipy.util as util
 from spotipy.oauth2 import SpotifyClientCredentials
-import numpy as np
-import random
 import pandas as pd
-import matplotlib
-import matplotlib.pyplot as plt
-import json
-import time
-import sys
-import urllib
-from sklearn.preprocessing import MultiLabelBinarizer
 
 class SpotifyDataGetter():
     def __init__(self) -> None:
@@ -52,7 +40,6 @@ class SpotifyDataGetter():
 
     def get_artist_list(self) -> list:
         return [
-            # Old School
             "Carmen Miranda",
             "João Gilberto",
             "Elis Regina",
@@ -73,8 +60,6 @@ class SpotifyDataGetter():
             "Francisco Alves",
             "Lupicínio Rodrigues",
             "Dona Ivone Lara",
-            
-            # New School
             "Anitta",
             "Luan Santana",
             "Marília Mendonça",
@@ -95,8 +80,6 @@ class SpotifyDataGetter():
             "BaianaSystem",
             "Liniker",
             "Karol Conká",
-            
-            # Old School
             "Roberto Carlos",
             "Raul Seixas",
             "Cazuza",
@@ -117,8 +100,6 @@ class SpotifyDataGetter():
             "Capital Inicial",
             "Blitz",
             "João Bosco",
-            
-            # New School
             "Silva",
             "Pitty",
             "Criolo",
