@@ -1,0 +1,78 @@
+name,popularity,genres,followers
+Carmen Miranda,29,[],26429
+João Gilberto,62,"['bossa nova', 'brazilian jazz', 'cool jazz', 'jazz guitar', 'samba', 'violao']",576065
+Elis Regina,60,"['bossa nova', 'brazilian jazz', 'mpb', 'samba']",1280030
+Caetano Veloso,65,"['bossa nova', 'mpb', 'samba de roda', 'tropicalia']",2159280
+Gilberto Santa Rosa,66,"['salsa', 'salsa puertorriquena', 'tropical']",2785597
+Gal Costa,60,"['bossa nova', 'mpb', 'samba', 'tropicalia']",754804
+Chico Buarque,60,"['bossa nova', 'fado', 'mpb', 'tropicalia']",1222215
+Maria Bethânia,60,"['bossa nova', 'mpb', 'samba de roda', 'umbanda']",1104335
+Orquestra Jovem Tom Jobim,1,['musica sinfonica'],1029
+Vinícius de Moraes,57,"['bossa nova', 'mpb', 'samba']",496729
+Milton Nascimento,57,"['bossa nova', 'mpb', 'musica popular mineira', 'samba']",853552
+Nara Leão,50,"['bossa nova', 'brazilian jazz', 'mpb', 'samba', 'tropicalia', 'velha guarda']",166554
+Cartola,55,"['bossa nova', 'mpb', 'samba', 'velha guarda']",610705
+Dorival Caymmi,37,"['bossa nova', 'mpb', 'samba', 'samba de roda', 'velha guarda']",195483
+Adoniran Barbosa,53,"['bossa nova', 'mpb', 'samba', 'samba paulista', 'velha guarda']",292670
+Ary Barroso,30,"['bossa nova', 'samba', 'velha guarda']",34592
+Francisco Alves,22,['velha guarda'],24541
+Lupicínio Rodrigues,18,"['samba', 'velha guarda']",35571
+Dona Ivone Lara,47,"['mpb', 'pagode', 'samba', 'velha guarda']",267003
+Anitta,77,"['funk pop', 'funk rj', 'pagode baiano', 'pop', 'pop nacional']",13118769
+Luan Santana,76,"['arrocha', 'sertanejo', 'sertanejo universitario']",7487812
+Marília Mendonça,79,"['arrocha', 'sertanejo', 'sertanejo universitario']",33035735
+Pabllo Vittar,64,"['dance pop', 'funk carioca', 'funk pop', 'pop lgbtq+ brasileira', 'pop nacional']",4294277
+Emicida,61,"['afrofuturismo brasileiro', 'brazilian hip hop', 'funk ostentacao', 'hip hop tuga', 'manguebeat', 'pop lgbtq+ brasileira']",1932535
+Alok,77,"['electro house', 'pop nacional', 'sertanejo universitario', 'slap house']",12248106
+LUDMILLA,75,"['funk carioca', 'funk pop', 'funk rj', 'pagode baiano', 'pop nacional']",6691305
+Wesley Safadão,75,"['arrocha', 'forro', 'sertanejo', 'sertanejo universitario']",12231511
+Gusttavo Lima,80,"['agronejo', 'arrocha', 'sertanejo', 'sertanejo universitario']",20621379
+Izaya Tiji,51,"['dream plugg', 'plugg', 'pluggnb']",65432
+Vitor Kley,62,[],977594
+Gloria Groove,68,"['funk carioca', 'pop lgbtq+ brasileira']",2936320
+Leo Santana,68,"['arrocha', 'forro', 'pagode baiano', 'pop nacional']",2080239
+Thiaguinho,70,"['pagode', 'pagode novo', 'sertanejo universitario']",3580158
+Jão,71,['pop nacional'],3031650
+TIAGO IORC,62,"['folk brasileiro', 'mpb', 'nova mpb']",2849641
+DUDA BEAT,59,"['nova mpb', 'nova musica pernambucana']",381310
+BaianaSystem,53,"['afrobeat brasileiro', 'brazilian indie', 'dub brasileiro', 'manguebeat', 'mpb', 'nova mpb', 'pop nacional', 'samba reggae']",246559
+Liniker,56,"['nova mpb', 'pop lgbtq+ brasileira']",183071
+Karol Conká,45,"['afrofuturismo brasileiro', 'brazilian hip hop', 'funk carioca', 'indie curitibano', 'pop lgbtq+ brasileira', 'r&b brasileiro', 'rap feminino nacional', 'rap latina']",544923
+Roberto Carlos,67,"['jovem guarda', 'mpb']",5211106
+Raul Seixas,61,"['mpb', 'psicodelia brasileira', 'rock baiano', 'rock nacional brasileiro']",2144949
+Cazuza,61,"['brazilian rock', 'mpb', 'rock nacional brasileiro']",1848890
+Rita Lee,63,"['bossa nova', 'brazilian rock', 'mpb', 'tropicalia']",1085794
+Zé Ramalho,62,['mpb'],2503222
+Legião Urbana,67,"['brazilian rock', 'mpb', 'rock brasiliense', 'rock nacional brasileiro']",6070166
+Os Mutantes,44,"['bossa nova', 'mpb', 'psicodelia brasileira', 'psychedelic rock', 'tropicalia']",301467
+Roupa Nova,59,['mpb'],2290465
+Os Paralamas Do Sucesso,62,"['brazilian rock', 'latin alternative', 'latin rock', 'mpb', 'rock nacional brasileiro']",2175573
+Titãs,62,"['brazilian rock', 'hard rock brasileiro', 'mpb', 'pop rock brasileiro', 'rock nacional brasileiro', 'rock piauiense']",2113595
+Engenheiros Do Hawaii,62,"['brazilian rock', 'pop rock brasileiro', 'rock gaucho', 'rock nacional brasileiro']",2347948
+Kid Abelha,60,"['mpb', 'pop rock brasileiro', 'rock nacional brasileiro']",1552050
+Beto Guedes,46,"['bossa nova', 'mpb', 'musica popular mineira']",277193
+RPM (Relaxing Piano Music),40,['pianissimo'],2375
+Ultraje a Rigor,47,['rock nacional brasileiro'],815646
+Capital Inicial,62,"['brazilian rock', 'pop rock brasileiro', 'rock brasiliense', 'rock nacional brasileiro']",2823291
+BLITZ,52,['rain'],387
+João Bosco & Vinicius,63,"['agronejo', 'arrocha', 'sertanejo', 'sertanejo pop', 'sertanejo universitario']",2989188
+Keanu Silva,57,['future house'],41691
+Pitty,62,"['brazilian rock', 'hard rock brasileiro', 'mpb', 'pop rock brasileiro', 'rock baiano']",2284457
+Criolo,57,"['afrobeat brasileiro', 'brazilian hip hop', 'brazilian reggae', 'latin afrobeat', 'manguebeat', 'mpb']",1051164
+Clarice Falcão,52,['nova mpb'],784279
+Rincon Sapiência,46,"['afrofuturismo brasileiro', 'brazilian hip hop', 'trap brasileiro']",287756
+Tropkillaz,56,"['afrofuturismo brasileiro', 'bass trap', 'funk carioca', 'pop nacional']",207079
+Papatinho,62,['funk carioca'],561728
+Baco Exu do Blues,72,"['pop rap brasileiro', 'rap baiano', 'trap brasileiro']",2120387
+Tobias Lelle,40,[],6
+Agnes Nunes,52,"['nova mpb', 'r&b brasileiro']",249558
+Rico Dalasam,39,"['brazilian hip hop', 'pop lgbtq+ brasileira']",97845
+Thai McGrath,40,[],15356
+Hot e Oreia,28,"['brazilian hip hop', 'rap mineiro']",64222
+Bktherula,52,['pluggnb'],185140
+Djonga,69,"['afrofuturismo brasileiro', 'brazilian hip hop', 'rap mineiro']",2223286
+Froid,61,"['brazilian hip hop', 'rap df']",1231572
+Cynthia Luz,60,"['brazilian hip hop', 'r&b brasileiro', 'rap feminino nacional']",1154432
+Mãeana,34,['nova mpb'],15839
+Josyara,30,"['musica baiana', 'nova mpb', 'pop lgbtq+ brasileira']",20799
+Mc Carol,54,"['funk carioca', 'pop lgbtq+ brasileira', 'rap feminino nacional']",230905
